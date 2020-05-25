@@ -1,0 +1,3 @@
+[submodule "pwndb"]
+	path = pwndb
+	url = https://github.com/SunnyCapt/pwndb

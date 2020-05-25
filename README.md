@@ -1,12 +1,6 @@
 <pre>
 Array
 (
-    [rtsp brute force] => <a href="./rtspbf.py">./rtspbf.py</a>
+    [rtsp brute force] => <a href="./rtspbf">./rtspbf</a>
 )
 </pre>
-
----
-
-## rtspbf
-
-	hiwatch ip camera
